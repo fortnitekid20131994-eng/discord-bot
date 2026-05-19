@@ -3,4 +3,4 @@ services:
     name: discord-bot
     runtime: node
     buildCommand: npm install
-    startCommand: node discord-bot-allinone.js
+startCommand: node src/discord-bot-allinone.js

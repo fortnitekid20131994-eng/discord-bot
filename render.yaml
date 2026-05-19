@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: discord-bot
+    runtime: node
+    buildCommand: npm install
+    startCommand: node discord-bot-allinone.js

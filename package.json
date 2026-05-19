@@ -1,0 +1,25 @@
+{
+  "name": "discord-key-bot-enhanced",
+  "version": "1.0.0",
+  "description": "Comprehensive Discord key distribution bot with buyer panel",
+  "main": "discord-bot-allinone.js",
+  "scripts": {
+    "start": "node discord-bot-allinone.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "key",
+    "license",
+    "distribution"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "uuid": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
